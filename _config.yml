@@ -12,7 +12,7 @@ title: "Xtreme Graphix"
 email: "chad@xtreme-graphix.com"
 phone: "(715) 874-5427"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.xtreme-graphix.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/logo/logo-light.png
 footer_logo: /assets/images/logo/logo-light.png
 description: "Xtreme Graphix"
