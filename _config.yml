@@ -26,7 +26,9 @@ twitter: https://twitter.com/xtremegraphix
 linkedin: https://linkedin.com/xtremegraphix
 pinterest: https://pinterest.com/xtremegraphix
 
-
+sass:
+    load_paths:
+      - assets/css
 # Build settings
 markdown: kramdown
 theme: minima
