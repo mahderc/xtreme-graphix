@@ -77,7 +77,7 @@
 
 	.primary_social_links {
 		a {
-			color: #7276b3;
+			color: #4150fa;
 			&:hover {
 				color: $default_orange;
 			}
@@ -127,7 +127,7 @@
 
 .header_contact_info {
 	li {
-		color: #7276b3;
+		color: #4150fa;
 		font-size: 15px;
 		font-family: $heading_font;
 		&:not(:last-child) {
@@ -142,7 +142,7 @@
 
 .header_items_list {
 	>li {
-		color: #7276b3;
+		color: #4150fa;
 		font-size: 15px;
 		position: relative;
 		&:not(:last-child) {
